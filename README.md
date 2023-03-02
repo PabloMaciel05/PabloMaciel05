@@ -22,4 +22,4 @@
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
 </div>
-! [Snake animation](PabloMaciel05)
+
